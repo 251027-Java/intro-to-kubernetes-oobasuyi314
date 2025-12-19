@@ -1,0 +1,2 @@
+1. 2 pods were created
+2. web-app-84867c5685-f8pj4 and web-app-84867c5685-wszwq 
